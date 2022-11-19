@@ -11,15 +11,15 @@
       <![CDATA[hello selenium]]>
     </line>
     <line>
-      <![CDATA[hello java]]>
+      <![CDATA[Hello Java]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-11-19T11:00:21 IST" name="Suite" finished-at="2022-11-19T11:00:21 IST" duration-ms="84">
+  <suite started-at="2022-11-19T13:32:23 IST" name="Suite" finished-at="2022-11-19T13:32:24 IST" duration-ms="73">
     <groups>
     </groups>
-    <test started-at="2022-11-19T11:00:21 IST" name="Test" finished-at="2022-11-19T11:00:21 IST" duration-ms="84">
+    <test started-at="2022-11-19T13:32:23 IST" name="Test" finished-at="2022-11-19T13:32:24 IST" duration-ms="73">
       <class name="scripts.Test1">
-        <test-method signature="tc2()[pri:0, instance:scripts.Test1@71238fc2]" started-at="2022-11-19T11:00:21 IST" name="tc2" finished-at="2022-11-19T11:00:21 IST" duration-ms="2" status="PASS">
+        <test-method signature="tc2()[pri:0, instance:scripts.Test1@71238fc2]" started-at="2022-11-19T13:32:23 IST" name="tc2" finished-at="2022-11-19T13:32:23 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello selenium]]>
@@ -28,16 +28,16 @@
         </test-method> <!-- tc2 -->
       </class> <!-- scripts.Test1 -->
       <class name="scripts.Test0">
-        <test-method signature="tc1()[pri:0, instance:scripts.Test0@2a54a73f]" started-at="2022-11-19T11:00:21 IST" name="tc1" finished-at="2022-11-19T11:00:21 IST" duration-ms="2" status="PASS">
+        <test-method signature="tc1()[pri:0, instance:scripts.Test0@2a54a73f]" started-at="2022-11-19T13:32:24 IST" name="tc1" finished-at="2022-11-19T13:32:24 IST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[hello java]]>
+              <![CDATA[Hello Java]]>
             </line>
           </reporter-output>
         </test-method> <!-- tc1 -->
       </class> <!-- scripts.Test0 -->
       <class name="scripts.Test3">
-        <test-method signature="tc4()[pri:0, instance:scripts.Test3@6f46426d]" started-at="2022-11-19T11:00:21 IST" name="tc4" finished-at="2022-11-19T11:00:21 IST" duration-ms="17" status="PASS">
+        <test-method signature="tc4()[pri:0, instance:scripts.Test3@6f46426d]" started-at="2022-11-19T13:32:23 IST" name="tc4" finished-at="2022-11-19T13:32:23 IST" duration-ms="14" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello pythonselenium]]>
@@ -46,7 +46,7 @@
         </test-method> <!-- tc4 -->
       </class> <!-- scripts.Test3 -->
       <class name="scripts.Test2">
-        <test-method signature="tc3()[pri:0, instance:scripts.Test2@fa49800]" started-at="2022-11-19T11:00:21 IST" name="tc3" finished-at="2022-11-19T11:00:21 IST" duration-ms="3" status="PASS">
+        <test-method signature="tc3()[pri:0, instance:scripts.Test2@fa49800]" started-at="2022-11-19T13:32:23 IST" name="tc3" finished-at="2022-11-19T13:32:23 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello Python]]>

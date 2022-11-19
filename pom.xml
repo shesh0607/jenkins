@@ -3,6 +3,10 @@
   <groupId>Maven</groupId>
   <artifactId>Maven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+     <maven.compiler.source>17</maven.compiler.source>
+     <maven.compiler.target>17</maven.compiler.target>
+   </properties>
   <dependencies>
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
@@ -29,7 +33,7 @@
     <artifactId>poi-ooxml</artifactId>
     <version>4.1.2</version>
 </dependency>
+</dependencies>
 
 
- </dependencies>
 </project>
